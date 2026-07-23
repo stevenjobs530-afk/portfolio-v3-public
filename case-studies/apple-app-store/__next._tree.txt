@@ -1,2 +1,2 @@
-:HL["/portfolio-v3-public/_next/static/css/ac9c525984eb83eb.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"case-studies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"apple-app-store","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"A2C-9W3NwnwqBvELSkT2r"}
+:HL["/portfolio-v3-public/_next/static/css/59cea1f21e24d109.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"case-studies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"apple-app-store","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eHr4xwehX6axXbjrQoUZI"}
