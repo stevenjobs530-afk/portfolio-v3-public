@@ -1,2 +1,2 @@
-:HL["/portfolio-v3-public/_next/static/chunks/0nrkzuvyeey6z.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"case-studies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"early-career-wellbeing","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"HDHfYjxhNbhJxOfxISKfT"}
+:HL["/portfolio-v3-public/_next/static/css/ac9c525984eb83eb.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"case-studies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"early-career-wellbeing","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"oG4ZTQmQV-MiCDMZ_qV8i"}
