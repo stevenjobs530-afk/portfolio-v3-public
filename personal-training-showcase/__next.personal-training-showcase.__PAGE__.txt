@@ -2,5 +2,5 @@
 2:I[254,["98","static/chunks/app/personal-training-showcase/page-8ef85ec7662dc0c9.js"],"PersonalTrainingShowcase"]
 3:I[887,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hLoGr2IQTcx2cFgRnWQaR"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8BupEjE7jKmk_YMNDVPQD"}
 5:null
